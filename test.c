@@ -2,6 +2,7 @@
 
 int main(){
 
-printf("Hay");
+printf("Hay Man");
+printf("Are You Fine");
     return 0;
 }
